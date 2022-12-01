@@ -1,4 +1,4 @@
-# Michael Gadda | [Resume](https://github.com/michaelgadda/michaelgadda.github.io/files/10136528/resume2022.pdf)
+# Michael Gadda | [Resume](https://github.com/michaelgadda/michaelgadda.github.io/files/10136549/Michael.Gadda.resume_for_school.pdf)
 
 # My Mission
 
@@ -49,6 +49,7 @@ professionally
 # Education
 
 Oregon State University | BS Computer Science | GPA 3.8
+
 
 
 
