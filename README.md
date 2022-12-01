@@ -22,6 +22,7 @@ A Prior Trading System: https://github.com/michaelgadda/trading_sys
 
 ## Links: 
 https://github.com/michaelgadda
+
 https://www.linkedin.com/in/michaelgadda/
 
 ## My Skills
