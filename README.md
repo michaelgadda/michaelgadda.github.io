@@ -4,11 +4,11 @@
 
 My goal with every data-driven project is to take in seemingly meaningless and unorganized data, transform it into something meaningful and provide actionable insights to the team.
 
-#My Projects
+# My Projects
 
 Over the past 2 years I have spent the majority of my time outside of studying working on projects for Intel along with dedicating a small portion of my time to analyzing market data to find discrepancies and patterns that can be exploited.
 
-##Intel Projects ~(Generalized for NDA purposes)~
+## Intel Projects ~(Generalized for NDA purposes)~
 
 **Chip Security Visualization & Query Interface**: Custom visualization tool that takes in raw data on internal chip security, organizes the data and provides an easy inteface for querying the data along with visualizing it.
 
@@ -16,7 +16,7 @@ Over the past 2 years I have spent the majority of my time outside of studying w
 
 **RTL Introspection Program**: A introspection algorithm that looks inside chip's RTL searching automatically searching for specific parameters providing hundred's of thousands of important peices of data that would be impossible to find by hand.
 
-##Personal Projects
+## Personal Projects
 
 A Prior Trading System: https://github.com/michaelgadda/trading_sys
 
