@@ -48,7 +48,7 @@ professionally
 
 # Education
 
-Oregon State University | BS Computer Science _GPA 3.8_
+#### Oregon State University | BS Computer Science | _GPA 3.8_
 
 
 
