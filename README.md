@@ -6,15 +6,15 @@ My goal with every data-driven project is to take in seemingly meaningless and u
 
 # My Projects
 
-Over the past 2 years I have spent the majority of my time outside of studying working on projects for Intel along with dedicating a small portion of my time to analyzing market data to find discrepancies and patterns that can be exploited.
+Over the past 2 years I have spent the majority of my time outside of studying working on projects for Intel along with dedicating a small portion of my time to analyzing market data to find discrepancies and patterns.
 
 ## Intel Projects (Generalized for NDA purposes)
 
-**Chip Security Visualization & Query Interface**: Custom visualization tool that takes in raw data on internal chip security, organizes the data and provides an easy inteface for querying the data along with visualizing it.
+**Chip Security Visualization & Query Interface**: Custom visualization tool that takes in raw data on internal chip security, organizes the data and provides an easy-to-use interface for querying the data along with visualizing it.
 
 **Chip Security Discrepancy Identifier**: Interface that allows architects to quickly and easily identify discrepancies within the security of chips. 
 
-**RTL Introspection Program**: A introspection algorithm that looks inside chip's RTL searching automatically searching for specific parameters providing hundred's of thousands of important peices of data that would be impossible to find by hand.
+**RTL Introspection Program**: A introspection algorithm that looks inside chip's RTL searching automatically for specific parameters providing hundred's of thousands of important peices of data that would be impossible to find by hand.
 
 ## Personal Projects
 
