@@ -8,7 +8,7 @@ My goal with every data-driven project is to take in seemingly meaningless and u
 
 Over the past 2 years I have spent the majority of my time outside of studying working on projects for Intel along with dedicating a small portion of my time to analyzing market data to find discrepancies and patterns that can be exploited.
 
-## Intel Projects ~(Generalized for NDA purposes)~
+## Intel Projects (Generalized for NDA purposes)
 
 **Chip Security Visualization & Query Interface**: Custom visualization tool that takes in raw data on internal chip security, organizes the data and provides an easy inteface for querying the data along with visualizing it.
 
@@ -20,7 +20,9 @@ Over the past 2 years I have spent the majority of my time outside of studying w
 
 A Prior Trading System: https://github.com/michaelgadda/trading_sys
 
-
+## Links: 
+https://github.com/michaelgadda
+https://www.linkedin.com/in/michaelgadda/
 
 ## My Skills
 • Proficient in Python
